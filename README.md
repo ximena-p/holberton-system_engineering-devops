@@ -1,0 +1,1 @@
+This repo for task Shell basics, whit 20 examples
