@@ -1,0 +1,1 @@
+Talk abot shell permissions
