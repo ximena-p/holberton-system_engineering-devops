@@ -1,1 +1,7 @@
+<<<<<<< HEAD
  mv /tmp/betty /tmp/holberton
+=======
+#!/bin/bash
+mv /tmp/betty /tmp/holberton
+
+>>>>>>> 622c7e7ef31addd28b6c252fdaf3f12e9160b488
