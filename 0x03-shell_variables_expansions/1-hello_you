@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello user" > $UID
+echo "hello user" > UID
